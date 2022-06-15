@@ -1,0 +1,33 @@
+table {
+    border: 2px solid;
+}
+
+th {
+    border: 2px solid;
+}
+
+td {
+    border: 1px solid;
+}
+
+ul {
+    background-color: rgb(235, 231, 228);
+}
+
+ol {
+    background-color: rgb(235, 231, 228);
+}
+ .new1{
+     border: dashed;
+ }
+
+ #mainschool{
+     color: rgb(34, 235, 19);
+ }
+
+ button{
+     width: 90px;
+     height: 30px;
+     border-color: rgb(239, 38, 38);
+     border-radius: 17px;
+ }
